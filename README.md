@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur and welcome on my github profile.👋
 
-###I hope, that in the nerest future I will become a frontend developer. 👀 
+### I hope, that in the nerest future I will become a frontend developer. 👀 
 
 
 **Progress of learning**
