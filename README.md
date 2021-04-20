@@ -3,7 +3,7 @@
 ### I hope, that in the nerest future I will become a frontend developer. 👀 
 
 
-**Progress of learning**
+**Progress of learning : **
 
 ![progress](https://i.ibb.co/25CkKJG/Screenshot-2021-04-20-at-17-20-42.png)
 
