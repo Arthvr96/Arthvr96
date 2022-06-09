@@ -35,19 +35,20 @@ I created a scale :<br>
 * HTML5 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 * CSS3 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 * JS - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-* React - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
-* Redux - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)
+* React - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+* Redux - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 * Styledcomponents - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-* Git - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-* Gatsby - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) - learning now!
+* Git - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+* Gatsby - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) - learning now!
+* Typescript - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) - -> next
 <br>
 The rest of the technologies I have not been able to evaluate and have used more or less : <br>
 Firebase, datoCMS, graphQl, Eslint & Prettier, webpack, cssModules<br><br>
 
 To learn in the near future:
-* React redux
-* React testing components
 * Tailwind Css
+* Ts
+* Shopify API
 
-Another skills: Figma/Sketch (I can easily use this programs), English: b1/b2. 
+Another skills: Figma/Sketch, English: b2. 
 
