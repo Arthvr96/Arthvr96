@@ -28,26 +28,27 @@ The main feature is the automatic schedule generator. The script itself is worki
 
 ## Skillset
 
-Analyzing what I found in job offers + based on what I found on roadmaps and yt I tried to rate myself.<br>
-I created a scale :<br>
-60% - junior threshold for most offers <br> 80% - definitely junior threshold + I feel very confident in a given technology. <br> 100% - knowledge slightly exceeding junior requirements. 
+I created a chart of my skills. I created the scale based on an analysis of what I found in job listings for juniors and early mids + my experience with recruitment tasks and also technical interviews.<br><br>
+
+0 - 49% - still a lot of learning. <br>
+50% - 69% - enough knowledge for a junior. <br>
+70% - 100% - very good knowledge, beyond the junior's tag.<br><br>
 
 * HTML5 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-* CSS3 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
-* JS - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+* CSS3 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+* JS - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
 * React - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 * Redux - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 * Styledcomponents - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-* Git - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
-* Gatsby - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) - learning now!
-* Typescript - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) - -> next
+* Git - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+* Gatsby - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) - learning now!
+* Typescript - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40) - -> next
 <br>
 The rest of the technologies I have not been able to evaluate and have used more or less : <br>
-Firebase, datoCMS, graphQl, Eslint & Prettier, webpack, cssModules<br><br>
+Firebase, datoCMS, contentful, graphQl, Eslint & Prettier, webpack, cssModules<br><br>
 
 To learn in the near future:
 * Tailwind Css
-* Ts
 * Shopify API
 
 Another skills: Figma/Sketch, English: b2. 
