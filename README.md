@@ -21,10 +21,13 @@ Proud to present a couple of my projects from the very first attempts to the new
 * [Sombreroprintswebsite](https://github.com/Arthvr96/Sombreroprintswebsite) - Quite an ambitious poster shop project. The plan was to integrate it with Shoplify. <br> Especially for this page I created a custom scroll like a full page. I did not use the ready-made solution because the client had a different vision, which I could not get with this package. <br>
 Scroll works for mobile. Here the project was frozen because the client had problems with copyrights for sold products. <br>
 The application within 3 months will be completed because I want to use it in my thesis.
-* [helios-employees-management-system](https://github.com/Arthvr96/helios-employees-management-system/tree/demonstration) - *Application in use!*<br> The most ambitious project of my life, which has grown to a huge size and is used by one cinema in Poland. <br>I came up with the idea myself and proposed it to a colleague who is the person responsible for creating work schedules. <br>The process of collecting dispositions sent by employees was horrible (via email). I decided to improve it but I did not expect it to grow so much. <br>
-The application is not finished yet and I plan to expand it in the future.<br>
-The main feature is the automatic schedule generator. The script itself is working. It is just waiting for optimization and implementation of frontend
-* [Jelly-fox](https://github.com/Arthvr96/jelly-fox) - *Currently under development* <br> Portfolio type site for a graphic designer. This is currently the main project on which I focus. First project in Gatsby!
+* [helios-employees-management-system](https://github.com/Arthvr96/helios-employees-management-system/tree/demonstration) - *App completed and in use!*<br> The most ambitious project of my life, which has grown to a huge size and is used by one cinema in Poland. <br>I came up with the idea myself and proposed it to a colleague who is the person responsible for creating work schedules. <br>The process of collecting dispositions sent by employees was horrible (via email). I decided to improve it but I did not expect it to grow so much. <br>
+The application allows you to collect employees' dispositions for a new work week. The administrator can create new accounts and edit existing ones. The application has a module that automatically generates most of the schedule. 
+Detailed description of the project at the link. In the future there will be a demo available (the current demo is an older version).
+
+* [Jelly-fox](https://github.com/Arthvr96/jelly-fox) - *Suspended* <br> Portfolio type site for a graphic designer. This is currently the main project on which I focus. First project in Gatsby!
+
+* [Select-Plus-Rent-TS](https://github.com/Arthvr96/select-plus-rent-ts) - *currently under development* <br> Recreating an old project ([Select-Plus-Rent](https://github.com/Arthvr96/Select-Rent-)) completely from scratch. Using typescirpt. This project will be a good way to evaluate my learning progress.
 
 ## Skillset
 
