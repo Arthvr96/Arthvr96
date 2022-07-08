@@ -4,7 +4,9 @@
 
 * [About me](#about-me)
 * [Projects](#projects)
+* [Scheduled projects](#scheduled-projects)
 * [Skillset](#skillset)
+* [Study plans](#study-plans)
 
 ## About me
 I’m 26 years old student of computer science. Only thesis away from getting my diploma.<br>
@@ -32,9 +34,9 @@ Detailed description of the project at the link. In the future there will be a d
 * [Jelly-fox](https://github.com/Arthvr96/jelly-fox) - *Suspended* <br> Portfolio type site for a graphic designer. First project in Gatsby! The client decided that she would be responsible for UI & UX herself. The work has been put on hold because, I am still waiting for a number of graphics and sub-page designs.  
 
 * [Select-Plus-Rent-TS](https://github.com/Arthvr96/select-plus-rent-ts) - *currently under development* <br> Recreating an old project ([Select-Plus-Rent-old](https://github.com/Arthvr96/Select-Rent-)) completely from scratch. Tech stack: Gatsby + typescript. The project is intended to help me improve my Gatsby skills, as well as allow me to make my first serious use of typescript in a project. I also plan to fully test the application. Unit and integration tests, as well as e2e.<br>
-Also this project, compared to the old version, will be a great demonstration of how my programming skills have changed over 2 years.
+Also this project, compared to the old version, will be a great demonstration of how my programming skills have changed over 2 years.<br>
 
-Scheduled projects:<br><br>
+## Scheduled projects
 
 1)[Sombreroprintswebsite](https://github.com/Arthvr96/Sombreroprintswebsite) - Resuming work on the project. Possible migration to TS.<br><br>
 2)[Jelly-fox](https://github.com/Arthvr96/jelly-fox) - Resume work on the project, if the necessary materials are provided by the client. Migration to ts. <br><br>
@@ -62,14 +64,14 @@ I created a chart of my skills. I created the scale based on an analysis of what
 * e2e - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - in the future! 
 <br>
 The rest of the technologies I have not been able to evaluate and have used more or less : <br>
-Firebase, datoCMS, contentful, graphQl, Eslint & Prettier, webpack, cssModules<br><br>
+Firebase, datoCMS, contentful, graphQl, Eslint & Prettier, webpack, cssModules, Figma/Sketch<br><br>
 
-To learn in the near future:
+English: b2 <br>
+
+## Study plans
+
 * css Modules
-* docker
 * e2e
+* docker
 * Shopify API
 * Nodejs & express
-
-Another skills: Figma/Sketch, English: b2. 
-
