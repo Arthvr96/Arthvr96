@@ -7,7 +7,7 @@
 * [Skillset](#skillset)
 
 ## About me
-I’m 26 years old student of computer science. Only thesis away from getting my diploma.<br><br>
+I’m 26 years old student of computer science. Only thesis away from getting my diploma.<br>
 
 The dream (becoming front-end dev) was born at the beginning of 2019, thanks to one and only [hello roman](https://www.youtube.com/c/helloroman). 
 
@@ -17,7 +17,7 @@ Proud to present a couple of my projects from the very first attempts to the new
 
 * [Modularity](https://github.com/Arthvr96/Modularity) - My very first attempt in programming with React. The project of a landing page with the fine old class components.
 
-* [ImmortalToDoList](https://github.com/Arthvr96/ImmortalToDoList) - Back to the basic kind of project. The First LP project showed me fundamentals are key. The project despite its simplicity required me to invest loads of time but helped me create a strong base for further development. PS you gotta read “readme” it’s hilarious. 
+* [ImmortalToDoList](https://github.com/Arthvr96/ImmortalToDoList) - Back to the basic kind of project. The first project showed me how important foundations are. Because of my big deficiencies in javascript, I had huge problems understanding how react works not to mention writing optimal solutions there. After many frustrating failures I returned to learning js. I studied es5 and es6 very thoroughly. I created this to list while learning pure js. You won't find anything revealing there, but you gotta read “readme” it’s hilarious. 
 
 * [Select-Plus-Rent-old](https://github.com/Arthvr96/Select-Rent-) - First major project for a real client. Unfortunately a pandemic ruined the plans as the company backed out of the idea to create a new site. ([select-plus-rent-ts](https://github.com/Arthvr96/select-plus-rent-ts)New version of the site created in gatsby + typescirpt)
 
