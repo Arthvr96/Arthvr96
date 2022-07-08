@@ -34,12 +34,12 @@ Detailed description of the project at the link. In the future there will be a d
 * [Select-Plus-Rent-TS](https://github.com/Arthvr96/select-plus-rent-ts) - *currently under development* <br> Recreating an old project ([Select-Plus-Rent-old](https://github.com/Arthvr96/Select-Rent-)) completely from scratch. Tech stack: Gatsby + typescript. The project is intended to help me improve my Gatsby skills, as well as allow me to make my first serious use of typescript in a project. I also plan to fully test the application. Unit and integration tests, as well as e2e.<br>
 Also this project, compared to the old version, will be a great demonstration of how my programming skills have changed over 2 years.
 
-Scheduled projects:
+Scheduled projects:<br><br>
 
-1)[Sombreroprintswebsite](https://github.com/Arthvr96/Sombreroprintswebsite) - Resuming work on the project. Possible migration to TS.
-2)[Jelly-fox](https://github.com/Arthvr96/jelly-fox) - Resume work on the project, if the necessary materials are provided by the client. Migration to ts. 
-3)helios-employees-management-system-2.0 - The current application is based on firebase. All logic is on the front end which made me unable to use firebase admin sdk. The application is unscalable, resistant to adaptation for other cinemas with different intrasctructure and is difficult to maintain.<br> 
-The project involves splitting the logic into a separate backend project. I intend to take up node.js and write the entire project from scratch with the ability to scale and customize easily. The target plan is to use the application throughout the helios network. 
+1)[Sombreroprintswebsite](https://github.com/Arthvr96/Sombreroprintswebsite) - Resuming work on the project. Possible migration to TS.<br><br>
+2)[Jelly-fox](https://github.com/Arthvr96/jelly-fox) - Resume work on the project, if the necessary materials are provided by the client. Migration to ts. <br><br>
+3)helios-employees-management-system-2.0 - The current application is based on firebase. All logic is on the front end which made me unable to use firebase admin sdk. The application is unscalable, resistant to adaptation for other cinemas with different intrasctructure and is difficult to maintain.<br>
+The project involves splitting the logic into a separate backend project. I intend to take up node.js and write the entire project from scratch with the ability to scale and customize easily. The target plan is to use the application throughout the helios network. <br>
 
 ## Skillset
 
