@@ -62,14 +62,12 @@ Also this project, compared to the old version, will be a great demonstration of
 
 ## 💼 Professional Experience
 
-I have experience working in **multi-disciplinary, multi-developer teams**, and I’m familiar with both **monolithic** and **microservices-based architectures**.
+I have experience working in **multi-developer teams**, and I’m familiar with both **monolithic** and **microservices-based architectures**.
 
 In my current project, I:
 - work closely with **business stakeholders and designers**
 - actively participate in **requirements analysis**
 - propose **technical solutions** to business problems
 - focus on delivering **scalable, maintainable frontend architectures**
-
-I also regularly work with projects deployed on **AWS** and understand how frontend applications fit into broader cloud ecosystems.
 
 ---
